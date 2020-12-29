@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cv.xsl"?>
+<CV>
+  <INFORMATIONS>
+	<INF_PERSO>
+		<ETAT_CIVIL>
+			<CIVILITE>Homme</CIVILITE>
+			<NOM>Diop</NOM>
+			<PRENOM>Ibrahima</PRENOM>
+			<DATE_NAIS>2020-02-01</DATE_NAIS>
+			<SIT_MAT>xxxxx</SIT_MAT>
+		</ETAT_CIVIL>
+		<CONTACT>
+			<ADRESSE>cité Hamo2</ADRESSE>
+			<TEL>777878563</TEL>
+			<AD_ELEC>bayara@gmail.com</AD_ELEC>
+		</CONTACT>	
+	</INF_PERSO>
+
+	<INFO_EDU>
+		<DIPLOMES>Baccalauréat</DIPLOMES>
+		<QUALIFICATIONS>xxxx</QUALIFICATIONS>
+	</INFO_EDU>	
+
+	<INF_PROF>
+		<EXPERIENCE>xxxx</EXPERIENCE>
+		<NAT_EMPAC>xxxx</NAT_EMPAC>
+		<EMPLOYEUR_AC>xxxx</EMPLOYEUR_AC>
+		<DUREE>xxxx</DUREE>
+		<DESIGNATION>xxxx</DESIGNATION>
+		<COMPETENCES>xxxx</COMPETENCES>
+	</INF_PROF>
+	<AUTRES>
+		<PREF_LIEUX>xxxx</PREF_LIEUX>
+		<REALISATIONS>xxxx</REALISATIONS>
+	</AUTRES>
+  </INFORMATIONS>
+</CV>		
+
+
